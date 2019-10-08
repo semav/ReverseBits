@@ -7,7 +7,6 @@ public class Main {
     private static final short mask = 0b11;
 
     public static void main(String[] args) {
-
     }
 
     public static int reverseBits(int x)
